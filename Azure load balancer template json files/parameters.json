@@ -1,0 +1,51 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "loadBalancers_az_lb_name": {
+            "value": null
+        },
+        "publicIPAddresses_fip_1_name": {
+            "value": null
+        },
+        "virtualMachines_Web_Svr_1_name": {
+            "value": null
+        },
+        "virtualMachines_Web_svr_2_name": {
+            "value": null
+        },
+        "virtualNetworks_az_lb_vnet_name": {
+            "value": null
+        },
+        "publicIPAddresses_Web_Svr_1_ip_name": {
+            "value": null
+        },
+        "publicIPAddresses_Web_svr_2_ip_name": {
+            "value": null
+        },
+        "virtualNetworks_Web_Svr_1_vnet_name": {
+            "value": null
+        },
+        "virtualNetworks_Web_svr_2_vnet_name": {
+            "value": null
+        },
+        "networkInterfaces_web_svr_224_z1_name": {
+            "value": null
+        },
+        "networkInterfaces_web_svr_1938_z1_name": {
+            "value": null
+        },
+        "networkInterfaces_web_svr_2998_z1_name": {
+            "value": null
+        },
+        "networkSecurityGroups_Web_Svr_1_nsg_name": {
+            "value": null
+        },
+        "networkSecurityGroups_Web_svr_2_nsg_name": {
+            "value": null
+        },
+        "networkSecurityGroups_Websvr2nsg963_name": {
+            "value": null
+        }
+    }
+}
